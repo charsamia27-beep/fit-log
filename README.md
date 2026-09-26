@@ -6,7 +6,7 @@
 
 A dark, no-nonsense gym companion — pick a lift, lock it into today's plan, and watch the week's work add up.
 
-[**🔗 Live Site**](https://your-live-link.vercel.app) · [**📂 Repository**](https://github.com/charsamia27-beep/fit-log)
+[**🔗 Live Site**](https://fit-log-eta-six.vercel.app/) · [**📂 Repository**](https://github.com/charsamia27-beep/fit-log)
 
 ![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
